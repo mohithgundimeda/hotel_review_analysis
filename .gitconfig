@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	email = mohithgundemeda@gmail.com
+	name = mohith
+[credential "helperselector"]
+	selected = wincred
